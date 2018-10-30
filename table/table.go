@@ -1,7 +1,7 @@
 package table
 
 // Tables is data map
-var Tables = map[rune][]string{}
+var Tables = map[rune][][]uint8{}
 
 func init() {
 	Tables[0x000] = x000

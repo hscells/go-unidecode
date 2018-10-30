@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16fdce31-f8cc-4b26-872b-d88db5f14c0d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/go-unidecode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/table.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/table.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x000.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x000.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x001.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x001.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x002.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x002.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x003.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x003.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x004.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x004.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x005.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x005.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x006.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x006.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x007.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x007.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x009.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x009.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x00a.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x00a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x00b.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x00b.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x00c.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x00c.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x00d.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x00d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x00e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x00e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x00f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x00f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x010.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x010.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x011.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x011.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x012.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x012.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x013.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x013.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x014.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x014.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x015.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x015.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x016.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x016.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x017.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x017.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x018.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x018.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x01d.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x01d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x01e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x01e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x01f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x01f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x020.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x020.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x021.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x021.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x022.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x022.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x023.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x023.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x024.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x024.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x025.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x025.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x026.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x026.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x027.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x027.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x028.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x028.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x029.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x029.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x02a.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x02a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x02c.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x02c.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x02e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x02e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x02f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x02f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x030.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x030.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x031.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x031.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x032.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x032.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x033.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x033.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x04d.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x04d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x04e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x04e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x04f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x04f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x050.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x050.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x051.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x051.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x052.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x052.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x053.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x053.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x054.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x054.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x055.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x055.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x056.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x056.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x057.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x057.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x058.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x058.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x059.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x059.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x05a.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x05a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x05b.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x05b.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x05c.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x05c.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x05d.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x05d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x05e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x05e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x05f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x05f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x060.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x060.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x061.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x061.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x062.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x062.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x063.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x063.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x064.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x064.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x065.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x065.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x066.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x066.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x067.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x067.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x068.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x068.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x069.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x069.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x06a.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x06a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x06b.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x06b.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x06c.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x06c.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x06d.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x06d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x06e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x06e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x06f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x06f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x070.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x070.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x071.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x071.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x072.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x072.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x073.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x073.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x074.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x074.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x075.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x075.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x076.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x076.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x077.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x077.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x078.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x078.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x079.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x079.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x07a.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x07a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x07b.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x07b.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x07c.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x07c.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x07d.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x07d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x07e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x07e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x07f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x07f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x080.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x080.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x081.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x081.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x082.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x082.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x083.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x083.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x084.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x084.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x085.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x085.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x086.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x086.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x087.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x087.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x088.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x088.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x089.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x089.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x08a.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x08a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x08b.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x08b.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x08c.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x08c.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x08d.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x08d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x08e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x08e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x08f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x08f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x090.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x090.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x091.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x091.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x092.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x092.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x093.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x093.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x094.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x094.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x095.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x095.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x096.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x096.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x097.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x097.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x098.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x098.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x099.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x099.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x09a.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x09a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x09b.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x09b.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x09c.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x09c.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x09d.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x09d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x09e.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x09e.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x09f.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x09f.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0a0.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0a0.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0a1.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0a1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0a2.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0a2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0a3.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0a3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0a4.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0a4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0ac.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0ac.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0ad.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0ad.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0ae.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0ae.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0af.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0af.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b0.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b0.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b1.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b2.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b3.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b4.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b5.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b6.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b7.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b8.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b8.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0b9.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0b9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0ba.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0ba.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0bb.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0bb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0bc.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0bc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0bd.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0bd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0be.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0be.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0bf.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0bf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c0.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c0.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c1.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c2.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c3.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c4.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c5.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c6.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c7.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c8.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c8.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0c9.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0c9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0ca.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0ca.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0cb.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0cb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0cc.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0cc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0cd.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0cd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0ce.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0ce.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0cf.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0cf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0d0.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0d0.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0d1.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0d1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0d2.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0d2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0d3.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0d3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0d4.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0d4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0d5.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0d5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0d6.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0d6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0d7.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0d7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0f9.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0f9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0fa.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0fa.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0fb.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0fb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0fc.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0fc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0fd.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0fd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0fe.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0fe.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x0ff.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x0ff.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x1d4.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x1d4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x1d5.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x1d5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x1d6.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x1d6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table/x1d7.go" beforeDir="false" afterPath="$PROJECT_DIR$/table/x1d7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidecode.go" beforeDir="false" afterPath="$PROJECT_DIR$/unidecode.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidecode/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidecode_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/unidecode_test.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;.{1,5}&quot;</find>
+      <find>&quot;(.{1,5})&quot;</find>
+      <find>&quot;(.{1,7})&quot;</find>
+      <find>&quot;(.{1,10})&quot;</find>
+      <find>\&quot;.{1,11}\&quot;</find>
+      <find>&quot;(.{1,12})&quot;</find>
+      <find>&quot;(.{1,11})&quot;</find>
+      <find>\[\]byte</find>
+      <find>&quot;(.{0,11})&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>[]byte(&quot;.{1,5}&quot;)</replace>
+      <replace>[]byte(\&quot;$1\&quot;)</replace>
+      <replace>[]uint8(\&quot;$1\&quot;)</replace>
+      <replace>[]uint8</replace>
+      <replace>[]uint8(&quot;$1&quot;)</replace>
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/table/x00a.go" />
+        <option value="$PROJECT_DIR$/table/x0ff.go" />
+        <option value="$PROJECT_DIR$/table/x0fe.go" />
+        <option value="$PROJECT_DIR$/table/x0fd.go" />
+        <option value="$PROJECT_DIR$/table/x0fc.go" />
+        <option value="$PROJECT_DIR$/table/x0fb.go" />
+        <option value="$PROJECT_DIR$/table/x0fa.go" />
+        <option value="$PROJECT_DIR$/table/x0f9.go" />
+        <option value="$PROJECT_DIR$/table/x0d7.go" />
+        <option value="$PROJECT_DIR$/table/x0d6.go" />
+        <option value="$PROJECT_DIR$/table/x0d5.go" />
+        <option value="$PROJECT_DIR$/table/x0d4.go" />
+        <option value="$PROJECT_DIR$/table/x0d3.go" />
+        <option value="$PROJECT_DIR$/table/x0d2.go" />
+        <option value="$PROJECT_DIR$/table/x0d1.go" />
+        <option value="$PROJECT_DIR$/table/x0d0.go" />
+        <option value="$PROJECT_DIR$/table/x0cf.go" />
+        <option value="$PROJECT_DIR$/table/x0ce.go" />
+        <option value="$PROJECT_DIR$/table/x0cd.go" />
+        <option value="$PROJECT_DIR$/table/x0cc.go" />
+        <option value="$PROJECT_DIR$/table/x0cb.go" />
+        <option value="$PROJECT_DIR$/table/x0ca.go" />
+        <option value="$PROJECT_DIR$/table/x0c9.go" />
+        <option value="$PROJECT_DIR$/table/x0c8.go" />
+        <option value="$PROJECT_DIR$/table/x0c7.go" />
+        <option value="$PROJECT_DIR$/table/x0c6.go" />
+        <option value="$PROJECT_DIR$/table/x0c5.go" />
+        <option value="$PROJECT_DIR$/table/x0c4.go" />
+        <option value="$PROJECT_DIR$/table/x0c3.go" />
+        <option value="$PROJECT_DIR$/table/x0c2.go" />
+        <option value="$PROJECT_DIR$/table/x0b7.go" />
+        <option value="$PROJECT_DIR$/table/x0b6.go" />
+        <option value="$PROJECT_DIR$/table/x0b5.go" />
+        <option value="$PROJECT_DIR$/table/x0b3.go" />
+        <option value="$PROJECT_DIR$/table/x0b1.go" />
+        <option value="$PROJECT_DIR$/table/x0a0.go" />
+        <option value="$PROJECT_DIR$/table/x0a1.go" />
+        <option value="$PROJECT_DIR$/table/x0a2.go" />
+        <option value="$PROJECT_DIR$/table/x0a3.go" />
+        <option value="$PROJECT_DIR$/table/x0a4.go" />
+        <option value="$PROJECT_DIR$/table/x0ac.go" />
+        <option value="$PROJECT_DIR$/table/x0ad.go" />
+        <option value="$PROJECT_DIR$/table/x0ae.go" />
+        <option value="$PROJECT_DIR$/table/x0af.go" />
+        <option value="$PROJECT_DIR$/table/x0b0.go" />
+        <option value="$PROJECT_DIR$/table/x0b2.go" />
+        <option value="$PROJECT_DIR$/table/x000.go" />
+        <option value="$PROJECT_DIR$/table/x0b4.go" />
+        <option value="$PROJECT_DIR$/unidecode.go" />
+        <option value="$PROJECT_DIR$/unidecode_test.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="go-unidecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go-unidecode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/table/x0cb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="21" selection-start-line="258" selection-start-column="21" selection-end-line="258" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0cc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0cd.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0ce.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0cf.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="21" selection-start-line="258" selection-start-column="21" selection-end-line="258" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0d0.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c9.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="20" selection-start-line="258" selection-start-column="20" selection-end-line="258" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0ca.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="22" selection-start-line="258" selection-start-column="22" selection-end-line="258" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c8.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="20" selection-start-line="258" selection-start-column="20" selection-end-line="258" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c6.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="18" selection-start-line="258" selection-start-column="18" selection-end-line="258" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c5.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="21" selection-start-line="258" selection-start-column="21" selection-end-line="258" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="21" selection-start-line="258" selection-start-column="21" selection-end-line="258" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c1.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0c0.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0bf.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0be.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0bd.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0bc.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0bb.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0ba.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b9.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b8.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b5.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b6.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2844">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0a1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0a0.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0a3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0a4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3798">
+          <caret line="257" column="11" selection-start-line="257" selection-start-column="11" selection-end-line="257" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0a2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0ac.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0ad.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0ae.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0af.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b0.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3813">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x000.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="258" column="11" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unidecode/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/x0b4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unidecode_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unidecode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table/table.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="24" lean-forward="true" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -11,19 +11,13 @@ type testCase struct {
 
 func testUnidecode(t *testing.T, input, expect string) {
 	ret := Unidecode(input)
-	check(t, ret, expect)
+	check(t, string(ret), expect)
 }
 
 func check(t *testing.T, ret, expect string) {
 	if ret != expect {
 		t.Errorf("Expected %s, got %s", expect, ret)
 	}
-}
-
-func TestVersion(t *testing.T) {
-	ret := Version()
-	expect := "0.1.0"
-	check(t, ret, expect)
 }
 
 func TestUnidecodeASCII(t *testing.T) {

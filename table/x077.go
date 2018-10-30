@@ -1,6 +1,6 @@
 package table
 
-var x077 = []string{
+var x077 = [][]uint8{
 	"Ming ",  // 0x00
 	"Sheng ", // 0x01
 	"Shi ",   // 0x02
