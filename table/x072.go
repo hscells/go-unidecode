@@ -44,7 +44,7 @@ var x072 = [][]uint8{
 	[]uint8("Cuan "),         // 0x28
 	[]uint8("Yu "),           // 0x29
 	[]uint8("Zhua "),         // 0x2a
-	"Tsumekanmuri ", // 0x2b
+	[]uint8("Tsumekanmuri "), // 0x2b
 	[]uint8("Pa "),           // 0x2c
 	[]uint8("Zheng "),        // 0x2d
 	[]uint8("Pao "),          // 0x2e

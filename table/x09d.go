@@ -143,7 +143,7 @@ var x09d = [][]uint8{
 	[]uint8("Ju "),          // 0x8b
 	[]uint8("Qu "),          // 0x8c
 	[]uint8("Isuka "),       // 0x8d
-	"Kikuitadaki ", // 0x8e
+	[]uint8("Kikuitadaki "), // 0x8e
 	[]uint8("Ji "),          // 0x8f
 	[]uint8("Shu "),         // 0x90
 	[]uint8("[?] "),         // 0x91

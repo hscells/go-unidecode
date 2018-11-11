@@ -92,7 +92,7 @@ var x091 = [][]uint8{
 	[]uint8("Tou "),        // 0x58
 	[]uint8("Zhen "),       // 0x59
 	[]uint8("Fen "),        // 0x5a
-	"Sakenomoto ", // 0x5b
+	[]uint8("Sakenomoto "), // 0x5b
 	[]uint8("[?] "),        // 0x5c
 	[]uint8("Yun "),        // 0x5d
 	[]uint8("Tai "),        // 0x5e
