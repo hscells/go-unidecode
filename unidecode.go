@@ -1,9 +1,8 @@
 package unidecode
 
 import (
+	"github.com/hscells/go-unidecode/table"
 	"unicode"
-
-	"github.com/danlocke/go-unidecode/table"
 )
 
 // Unidecode implements transliterate Unicode text into plain 7-bit ASCII.
@@ -20,7 +19,7 @@ func Unidecode(s string) []uint8 {
 			continue
 		}
 
-		section := r >> 8  // Chop off the last two hex digits
+		section := r >> 8   // Chop off the last two hex digits
 		position := r % 256 // Last two hex digits
 		if tb, ok := table.Tables[section]; ok {
 			if len(tb) > int(position) {
